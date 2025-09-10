@@ -1,0 +1,9 @@
+requests
+langchain>=0.3.6
+langgraph>=0.2.43
+pydantic>=2.10
+langchain-openai>=0.2.0
+openai>=1.51.0
+python-dotenv>=1.0.1
+backoff>=2.2.1
+azure-search-documents>=11.6.0
